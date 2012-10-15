@@ -1,0 +1,536 @@
+{
+    "cc652d368f26cbb71fbab5dbc0de4e34": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/coffee-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/Cakefile"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/hartman.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple/src/hello.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/index.js"
+            }
+        ], 
+        "closed": []
+    }, 
+    "d629d38a9029172ba237254d3fe7d6e5": {
+        "opened": [], 
+        "closed": [
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }
+        ]
+    }, 
+    "6fa1eaa2c53503990676afc6542deafa": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Pristine Packages/User.sublime-package"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/D/unittest.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/kakko.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/ZenCoding/update_keymaps.bat"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/C++/Symbol List - Indent Class Methods.tmPreferences"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/CoffeeScript.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/final-var.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/roy.tmbundle/Snippets/For all.tmSnippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/fold.py"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/setUp().sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/SublimeTweet.settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Git/git.py"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json"
+            }
+        ]
+    }, 
+    "global": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/coffee-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/Cakefile"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/hartman.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple/src/hello.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/index.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Pristine Packages/User.sublime-package"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/D/unittest.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/kakko.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/ZenCoding/update_keymaps.bat"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/C++/Symbol List - Indent Class Methods.tmPreferences"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/CoffeeScript.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/final-var.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/roy.tmbundle/Snippets/For all.tmSnippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/fold.py"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/setUp().sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/SublimeTweet.settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Git/git.py"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/mmo/node_modules/socket.io/lib/transports/websocket/default.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/prompt/node_modules/winston/test/fixtures/scripts/default-exceptions.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/mmo/dump.rdb"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/uglify-js/test/unit/compress/expected/if-not.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/sinon/lib/sinon/util/fake_server.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/city/facility_canvas.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/rpc/api/finishconstructionnow_api.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/mocha/support/foot.js"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/vendor/enchantjs/enchant.js"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/index.html"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/src/types/backbone.d.ts"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/File History/Default.sublime-keymap"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/mmo/assets/js/player.coffee"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-build"
+            }, 
+            {
+                "index": 9, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/vendor/backbone/backbone.js"
+            }
+        ]
+    }, 
+    "6e7c60da6d93963f21492cda0e0d8c99": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/mmo/node_modules/socket.io/lib/transports/websocket/default.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/prompt/node_modules/winston/test/fixtures/scripts/default-exceptions.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/mmo/dump.rdb"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/uglify-js/test/unit/compress/expected/if-not.js"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/vendor/enchantjs/enchant.js"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/index.html"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/src/types/backbone.d.ts"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/File History/Default.sublime-keymap"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/mmo/assets/js/player.coffee"
+            }, 
+            {
+                "index": 9, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-build"
+            }, 
+            {
+                "index": 9, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/vendor/backbone/backbone.js"
+            }
+        ]
+    }, 
+    "24bf8b9b97d3f7a83d22b81078d4a29c": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/sinon/lib/sinon/util/fake_server.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/city/facility_canvas.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/rpc/api/finishconstructionnow_api.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/mocha/support/foot.js"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/Cakefile"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+            }
+        ]
+    }
+}

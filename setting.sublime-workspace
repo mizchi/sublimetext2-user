@@ -1,0 +1,1886 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"HTML",
+				"HTMLElement"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"dele",
+				"delegateEvents"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"rende",
+				"renderNodes"
+			],
+			[
+				"mi",
+				"middle_y"
+			],
+			[
+				"whi",
+				"within"
+			],
+			[
+				"for",
+				"forin	Array Comprehension"
+			],
+			[
+				"ref",
+				"reference"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"with",
+				"within"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"ENTER",
+				"ENTER_FRAME"
+			],
+			[
+				"define",
+				"defineProperty"
+			],
+			[
+				"raci",
+				"racial_name"
+			],
+			[
+				"gol",
+				"goblin_status"
+			],
+			[
+				"stat",
+				"status_numbers"
+			],
+			[
+				"func",
+				"functions"
+			],
+			[
+				"unde",
+				"underscore"
+			],
+			[
+				"is",
+				"isPushed"
+			],
+			[
+				"enter",
+				"enterframe"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"add",
+				"addPlayer"
+			],
+			[
+				"world",
+				"worldState"
+			],
+			[
+				"render",
+				"renderButtons"
+			],
+			[
+				"select",
+				"selected_button_index"
+			],
+			[
+				"selec",
+				"selected_button_index"
+			],
+			[
+				"colle",
+				"collectHeader"
+			],
+			[
+				"prevHe",
+				"prevHeader"
+			],
+			[
+				"nextHE",
+				"nextHeader"
+			],
+			[
+				"renderU",
+				"renderUnitTabs"
+			],
+			[
+				"village",
+				"village_status"
+			],
+			[
+				"class_unho",
+				"class_unhover"
+			],
+			[
+				"village_list_temp",
+				"village_list_template"
+			],
+			[
+				"btn_",
+				"btn_accept"
+			],
+			[
+				"selectUni",
+				"selectUnitInde"
+			],
+			[
+				"now",
+				"now_village_id"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"last",
+				"last_top"
+			],
+			[
+				"next",
+				"nextEntry"
+			],
+			[
+				"page",
+				"page_count"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"show",
+				"show_range_"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"update",
+				"updateContent"
+			],
+			[
+				"archi",
+				"archives"
+			],
+			[
+				"ar",
+				"archives"
+			],
+			[
+				"makeA",
+				"makeArticles"
+			],
+			[
+				"initi",
+				"initialized"
+			],
+			[
+				"init",
+				"initialized"
+			],
+			[
+				"sw",
+				"switchContent"
+			],
+			[
+				"swi",
+				"switchConten"
+			],
+			[
+				"getE",
+				"getEntry"
+			],
+			[
+				"open",
+				"openPurchaseCost"
+			],
+			[
+				"deckUni",
+				"deckUnitView"
+			],
+			[
+				"addCost",
+				"addCostView"
+			],
+			[
+				"Add",
+				"AddCost"
+			],
+			[
+				"queue",
+				"queues"
+			],
+			[
+				"notification_action",
+				"notification_action_item_template"
+			],
+			[
+				"vill",
+				"village_id"
+			],
+			[
+				"moveTo",
+				"movetoPositition"
+			],
+			[
+				"getQueue",
+				"getQueueByUnitI"
+			],
+			[
+				"queues",
+				"queues_battle"
+			],
+			[
+				"GAME_",
+				"GAME_HEIGHT"
+			],
+			[
+				"_",
+				"_touchmove"
+			],
+			[
+				"Hx",
+				"HxEntity	enchant.EnchantHX"
+			],
+			[
+				"addCos",
+				"addCostView"
+			],
+			[
+				"updateDetail",
+				"updateDetailDialog"
+			],
+			[
+				"event",
+				"event_name"
+			],
+			[
+				"getCurrent",
+				"getCurrentAmount"
+			],
+			[
+				"hasGo",
+				"hasGoldBonus"
+			],
+			[
+				"getManaIn",
+				"getManaIncome"
+			],
+			[
+				"fame",
+				"fame_current"
+			],
+			[
+				"fame_to",
+				"fame_total"
+			],
+			[
+				"resou",
+				"resources"
+			],
+			[
+				"current_",
+				"current_crysta"
+			],
+			[
+				"max_mon",
+				"max_money"
+			],
+			[
+				"bonus_hour",
+				"bonus_hour_money"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"Resou",
+				"Resources"
+			],
+			[
+				"max_mo",
+				"max_money"
+			],
+			[
+				"UserInfo",
+				"user_information"
+			],
+			[
+				"addCi",
+				"addChild"
+			],
+			[
+				"fame_curr",
+				"fame_current"
+			],
+			[
+				"getChil",
+				"getChildren"
+			],
+			[
+				"P",
+				"PC"
+			],
+			[
+				"transiti",
+				"transition_to"
+			],
+			[
+				"Sock",
+				"SocketIO"
+			],
+			[
+				"socket",
+				"socketio"
+			],
+			[
+				"Hxm",
+				"HxmmoGame	class"
+			],
+			[
+				"qso",
+				"qsort_lambda"
+			],
+			[
+				"to",
+				"total_ms	var"
+			],
+			[
+				"entra",
+				"entrance"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"expos",
+				"exports"
+			],
+			[
+				"dis",
+				"disconnect"
+			],
+			[
+				"crea",
+				"createServer	function"
+			],
+			[
+				"D",
+				"Dynamic"
+			],
+			[
+				"F",
+				"function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"readSync",
+				"readFileSync(...)	String"
+			],
+			[
+				"co",
+				"concat(...)	Array<Unknown<0>>"
+			],
+			[
+				"after",
+				"after-update"
+			],
+			[
+				"ac",
+				"actor_id"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"wo",
+				"world"
+			],
+			[
+				"actor",
+				"actor_id"
+			],
+			[
+				"B",
+				"BattleEntity"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"atta",
+				"attack"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"_o",
+				"_on_going_cnt"
+			],
+			[
+				"o",
+				"object_id"
+			],
+			[
+				"hai",
+				"hair_color"
+			],
+			[
+				"hp",
+				"hp_rate"
+			],
+			[
+				"pla",
+				"player_id"
+			],
+			[
+				"Pla",
+				"PlayerCircle"
+			],
+			[
+				"pl",
+				"players"
+			],
+			[
+				"dec",
+				"decodeObject"
+			],
+			[
+				"obj",
+				"object_encrypter"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"proto",
+				"protocol_mapped_array"
+			],
+			[
+				"re",
+				"reversed"
+			],
+			[
+				"deco",
+				"decoded"
+			],
+			[
+				"de",
+				"decoded"
+			],
+			[
+				"log",
+				"log_cnt"
+			],
+			[
+				"decode",
+				"decodeObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "[\n    //インサートモードからctrl+gで抜ける\n    {\n        \"keys\": [\"ctrl+g\"],\n        \"command\": \"exit_insert_mode\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\", \"operand\": false },\n            { \"key\": \"setting.is_widget\", \"operand\": false }\n        ]\n    },\n\n\n    //コマンドパレット呼び出し\n    {\n        \"keys\": [\";\"],\n        \"command\": \"show_overlay\",\n        \"args\": {\"overlay\": \"command_palette\"},\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    //プロジェクト呼び出しショートカット\n    {\n        \"keys\": [\"B\"],\n        \"command\": \"prompt_select_project\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n\n    },\n\n    // ファイルスイッチ\n    {\n        \"keys\": [\"t\"],\n        \"command\": \"show_overlay\",\n        \"args\": {\"overlay\": \"goto\", \"show_files\": true} ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    // move tabs\n    { \"keys\":\n        [\"ctrl+h\"],\n        \"command\": \"prev_view\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"ctrl+l\"],\n        \"command\": \"next_view\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    // fold and unfold\n    {\n        \"keys\": [\"[\"],\n        \"command\": \"fold\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n    {\n        \"keys\": [\"]\"],\n        \"command\": \"unfold\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"1\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 0 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"2\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 1 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"3\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 2 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"4\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 3 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    {\n        \"keys\": [\"ctrl+1\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 0 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"ctrl+2\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 1 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n    {\n        \"keys\": [\"ctrl+3\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 2 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n    {\n        \"keys\": [\"ctrl+4\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 3 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"f1\"],\n        \"command\": \"set_layout\",\n        \"args\":\n        {\n            \"cols\": [0.0, 1.0],\n            \"rows\": [0.0, 1.0],\n            \"cells\": [[0, 0, 1, 1]]\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"f2\"],\n        \"command\": \"set_layout\",\n        \"args\":\n        {\n            \"cols\": [0.0, 0.5, 1.0],\n            \"rows\": [0.0, 1.0],\n            \"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"f3\"],\n        \"command\": \"set_layout\",\n        \"args\":\n        {\n            \"cols\": [0.0, 0.5, 1.0],\n            \"rows\": [0.0, 0.5, 1.0],\n            \"cells\":\n            [\n                [0, 0, 1, 1], [1, 0, 2, 1],\n                [0, 1, 1, 2], [1, 1, 2, 2]\n            ]\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    { \"keys\": [\"-\"],\n        \"command\": \"toggle_side_bar\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"_\"],\n        \"command\": [\"toggle_side_bar\"],\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"e\"],\n        \"command\": \"show_overlay\",\n        \"args\":\n        {\n            \"overlay\": \"goto\",\n            \"text\": \"@\"\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"@\"],\n        \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"},\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"g\",\"c\"],\n        \"command\": \"git_quick_commit\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"g\",\"s\"],\n        \"command\": \"git_status\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"g\",\"l\"],\n        \"command\": \"git_log\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    {\n        \"keys\": [\"c\"],\n        \"command\": \"toggle_comment\",\n        \"args\": { \"block\": false } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\",\"], \"command\": \"next_bookmark\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n  \"keys\": [\"m\"], \"command\": \"toggle_bookmark\",\n  \"context\":[\n      { \"key\": \"setting.command_mode\"}\n  ]\n\n    },\n\n    {\n        \"keys\": [\"`\"],\n        \"command\":\"focus_side_bar\" ,\n        \"context\":[ { \"key\": \"setting.command_mode\"}]\n    },\n\n    { \"keys\": [\"super+alt+[\"], \"command\": \"fold\" },\n    { \"keys\": [\"super+alt+]\"], \"command\": \"unfold\" },\n    { \"keys\": [\"alt+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"Z\"], \"command\": \"unfold_all\",\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"z\"], \"command\": \"fold_all\",\"context\":[ { \"key\": \"setting.command_mode\"}]},\n    { \"keys\": [\"alt+t\"], \"command\": \"fold_tag_attributes\" },\n\n    { \"keys\": [\"alt+k\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} ,\"context\":[ { \"key\": \"setting.command_mode\"}]},\n    { \"keys\": [\"alt+j\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} ,\"context\":[ { \"key\": \"setting.command_mode\"}]},\n\n    { \"keys\": [\"j\", \"j\"], \"command\": \"exit_insert_mode\",\n        \"context\":\n        [\n            { \"key\": \"setting.command_mode\", \"operand\": false },\n            { \"key\": \"setting.is_widget\", \"operand\": false }\n        ]\n    },\n    {\"keys\":[\"ctrl+c\"],\n     \"command\": \"shell_prompt\",\n     \"context\":[\n        { \"key\": \"setting.command_mode\"}\n      ]\n    }\n]\n\n    ",
+			"file": "Default (OSX).sublime-keymap",
+			"file_size": 7827,
+			"file_write_time": 1350198526000000,
+			"settings":
+			{
+				"buffer_size": 7729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "Shell Turtlestein.sublime-settings",
+			"file_size": 34,
+			"file_write_time": 1350198393000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Shell Turtlestein.sublime-settings"
+			}
+		}
+	],
+	"build_system": "Packages/User/typescript.sublime-build",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"finder ",
+				"Finder: Open here"
+			],
+			[
+				"finder",
+				"Finder: Open here"
+			],
+			[
+				"history",
+				"Local History: Open"
+			],
+			[
+				"package ds",
+				"Package Control: Disable Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"package cont",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"file search",
+				"File: Search Files"
+			],
+			[
+				"file hi",
+				"File: Search Files"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"projce",
+				"Project: Add Folder"
+			],
+			[
+				"unity",
+				"Unity Reference: Search from Input"
+			],
+			[
+				"snippet ",
+				"Snippet: Class"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: Switch"
+			],
+			[
+				"snipp ",
+				"Snippet: Function"
+			],
+			[
+				"snipe cla",
+				"Snippet: Class"
+			],
+			[
+				"snipe",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"packageInsta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gitst",
+				"Gist: Create Public Gist"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"file open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"oco",
+				"Octopress: New post"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"octo ",
+				"Octopress: New post"
+			],
+			[
+				"new po",
+				"Octopress: New post"
+			],
+			[
+				"task ",
+				"Tasks: New document"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"log cu",
+				"Git: Log Current File"
+			],
+			[
+				"b",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ba",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"haxe",
+				"Set Syntax: HaXe2"
+			],
+			[
+				"snip",
+				"Snippet: \\t -> f t"
+			],
+			[
+				"sn ",
+				"Snippet: Main"
+			],
+			[
+				"git mo",
+				"Git: Commit history"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"gi",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git add ",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"staged",
+				"Git: Diff Staged"
+			],
+			[
+				"add hu",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git diff ",
+				"Git: Diff Staged"
+			],
+			[
+				"tw",
+				"Tweet"
+			],
+			[
+				"twee",
+				"Twitter timeline"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Extract Annotations"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json",
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-build",
+		"/Users/mizchi/sandbox/monster/vendor/backbone/backbone.js",
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mizchi/sandbox/monster/README.md",
+		"/Users/mizchi/sandbox/monster/src/log.ts",
+		"/Users/mizchi/sandbox/monster/src/enchant.d.ts",
+		"/Users/mizchi/sandbox/monster/vendor/enchantjs/enchant.js",
+		"/Users/mizchi/sandbox/monster/lib/main.js",
+		"/Users/mizchi/sandbox/monster/src/main.js",
+		"/Users/mizchi/sandbox/ts/hello.ts",
+		"/Users/mizchi/sandbox/ts/proc.",
+		"/Users/mizchi/Dropbox/WDP71_ WebSocket/edit/4.txt",
+		"/Users/mizchi/Dropbox/WDP71_ WebSocket/edit/3.txt",
+		"/Users/mizchi/proj/enchant.js/enchant.js",
+		"/Users/mizchi/proj/wdp70-websocket/walker/README.md",
+		"/Users/mizchi/proj/wdp70-websocket/walker/world.js",
+		"/Users/mizchi/proj/wdp70-websocket/walker/sever.js",
+		"/Users/mizchi/proj/wdp70-websocket/4.md",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/setup.js.coffee.erb",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/deck.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/deck/deck_unit.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/village.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/deck/village_deck.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/scene/deck.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/unit_select.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/utils/utils.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_detail/card_detail.js.coffee",
+		"/Users/mizchi/proj/octopress/source/_posts/2012-09-23-octopress-temafalsezuo-rifang.markdown",
+		"/Users/mizchi/proj/octopress/.themes/slash/source/_includes/head.html",
+		"/Users/mizchi/proj/octopress/source/_includes/head.html",
+		"/Users/mizchi/proj/octopress/.themes/classic/source/_includes/head.html",
+		"/Users/mizchi/proj/octopress/.themes/mizchi/source/_includes/head.html",
+		"/Users/mizchi/proj/octopress/source/_posts/2012-09-22-octopress-meme.markdown",
+		"/Users/mizchi/proj/octopress/source/_posts/2012-09-22-octopressdao-ru-memo.markdown",
+		"/Users/mizchi/proj/octopress/.themes/mizchi/source/index.html",
+		"/Users/mizchi/proj/octopress/.themes/mizchi/source/head.html",
+		"/Users/mizchi/proj/octopress/source/_posts/2012-09-22-test2.markdown",
+		"/Users/mizchi/proj/octopress/source/_layouts/post.html",
+		"/Users/mizchi/proj/octopress/.themes/classic/source/_includes/article.html",
+		"/Users/mizchi/proj/octopress/.themes/mizchi/source/_includes/article.html",
+		"/Users/mizchi/proj/octopress/source/_posts/2012-09-23-octopress-theme.markdown",
+		"/Users/mizchi/proj/octopress/source/_posts/2012-09-22-test.markdown",
+		"/Users/mizchi/proj/octopress/public/head.html",
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mizchi/proj/mizchi.github.com/octopress/source/_posts/2012-09-22-octopressdao-ru-memo.markdown",
+		"/Users/mizchi/proj/mizchi.github.com/octopress/source/_includes/header.html",
+		"/Users/mizchi/proj/mizchi.github.com/octopress/source/_posts/2012-09-22-test2.markdown",
+		"/Users/mizchi/proj/mizchi.github.com/octopress/_config.yml",
+		"/Users/mizchi/proj/mizchi.github.com/octopress/source/my/main.coffee",
+		"/Users/mizchi/proj/mizchi.github.com/octopress/source/_includes/head.html",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/deck/card_info.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/deck/deck_events.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/deck/deck.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_list/card_slide.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_list/card_sort.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_list/card_list.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/deck/card_list.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/cards/card_list.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/deck/deck_drag_drop.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/unit_select.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/deck/village_card.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/deck/add_cost.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/notification/battle.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/notification/area.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/notification/action.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/btn.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/namespace.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/switcher.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/views/pc/shared/notification/_action.html.erb",
+		"/Users/mizchi/proj/tss-html/app/views/pc/shared/notification/_templates.html.erb",
+		"/Users/mizchi/proj/tss-html/app/views/pc/shared/notification/_area.html.erb",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/map/area.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/city/construction.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/views/pc/drafts/city/facility_menu.html.erb",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/city/construction/facility_menu.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/city/panels.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/notification/action.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/message.js.coffee.erb",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/notification/menu.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/notification/menu.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/queue/battle.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/application_pc.js",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/notification/battle.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/scene/city.js.coffee",
+		"/Users/mizchi/proj/mymmd/index.html",
+		"/Users/mizchi/proj/mymmd/main.js",
+		"/Users/mizchi/proj/mymmd/libs/MMD/MMD.js",
+		"/Users/mizchi/proj/mymmd/,",
+		"/Users/mizchi/proj/tscheme/hoge.scheme",
+		"/Users/mizchi/proj/tscheme/untitled.lisp",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/deck/add_cost.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/test/views/shared/base_spec.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/scene/base.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/models/resource.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/views/pc/drafts/city/action_dialog.html.erb",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/notification/menu.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/scene/map.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/shared/base.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/pc/menu/header.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/scene/city.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/app.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/pc/menu/footer.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/pc/menu/menu.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/scene/scene.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/switcher.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/resource.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/user_point.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/resource.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/test/models/resources_spec.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/models/timer.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/test/views/mobile/city/resource_views_spec.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/menu/user_point",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/city/resource_views.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/models/chat/latest_chat.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/chat/latest_chat.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/balloon.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/menu.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/menu/footer.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/pc/menu/header.js.coffee",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/card_detail/card_detail.js.coffee",
+		"/Users/mizchi/Downloads/contract.rb",
+		"/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/assets/javascripts/application.js",
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/transition_button.js.coffee",
+		"/Users/mizchi/proj/tss-html/app/views/pc/shared/_assets.html.erb",
+		"/Users/mizchi/proj/tss-html/node/lib/utils/utils.js.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"finde",
+			"settin",
+			"git",
+			"return",
+			"super+alt",
+			"window",
+			"Game",
+			"game",
+			"addChild",
+			"this.",
+			"Game",
+			"class",
+			"game",
+			"node",
+			"Spirte",
+			"addChild",
+			"enchant.Game",
+			"Game",
+			"number",
+			"numbe",
+			"inter",
+			"instance",
+			"class",
+			"_",
+			"Functio",
+			"anyn",
+			"definePro",
+			"create",
+			"jquery",
+			"interface",
+			"for",
+			"lib",
+			"input",
+			"window.onkey",
+			"card_id",
+			"dropCard",
+			"on",
+			"sort_list",
+			"render",
+			"change",
+			"sort",
+			"btn_cl_sort",
+			"detail",
+			"tap",
+			"ul",
+			"index",
+			"h1",
+			"unit_id",
+			"el",
+			"updateModel",
+			"updateMode",
+			"updateModel",
+			"village_text",
+			"unit_index",
+			"$el",
+			"@updateModel",
+			"scroll",
+			"nth",
+			"opentitle",
+			"isVi",
+			"head",
+			"github_ul",
+			"github_u",
+			"location",
+			"hoge",
+			"switchC",
+			"false",
+			"console",
+			"hoge",
+			"navigate",
+			"app.navi",
+			"test",
+			"deckUnit",
+			"unit",
+			"model",
+			"@model",
+			"el",
+			"deckUnitView",
+			"open",
+			"deckUnitVi",
+			"open",
+			"DeckSideBtns",
+			"yabage",
+			"app.",
+			"@template",
+			"battle",
+			"current_scene",
+			"unit_index",
+			"test",
+			"check",
+			"vmd",
+			"slice",
+			"size_Uint8",
+			"check",
+			"kamae",
+			"clearAnimation",
+			"kishi",
+			"animation",
+			"initCamera",
+			"clone",
+			"scene",
+			"game",
+			"function",
+			"//",
+			";",
+			"var ",
+			"surface",
+			"Rect",
+			"Label",
+			"group",
+			"bear",
+			"HxGroup",
+			"Sprite",
+			"HxSprite",
+			"sprite",
+			"label",
+			"hxnode",
+			"HxSpri",
+			"HxEntity",
+			"Entity",
+			"current_scene",
+			"caled",
+			"money",
+			"timer",
+			"resouce",
+			"keep",
+			"Timer",
+			"userpoints"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"app.deck",
+			"View.Deck.Button",
+			"",
+			"#",
+			"",
+			"mana",
+			"Lok.View.Base",
+			"Lok.View.Mobile.",
+			"o",
+			"object.",
+			"_stunnedFrameCount",
+			"_nextActionFrameCount",
+			"user_id",
+			"@",
+			"",
+			"#",
+			"",
+			"@",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 7729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 7,
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"coffee": "coffee",
+								"node": "node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Shell Turtlestein.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Shell Turtlestein.sublime-settings",
+							"function_name_status_row": 0,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.haxe":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"userkey",
+				"User/Default (OSX).sublime-keymap"
+			],
+			[
+				"inde",
+				"monster/index.html"
+			],
+			[
+				"backb",
+				"monster/vendor/backbone/backbone.js"
+			],
+			[
+				"encha",
+				"vendor/enchantjs/enchant.js"
+			],
+			[
+				"enchand",
+				"src/types/enchant.d.ts"
+			],
+			[
+				"main",
+				"src/main.ts"
+			],
+			[
+				"map",
+				"assets/js/entity/map.coffee"
+			],
+			[
+				"mai",
+				"assets/js/main.coffee"
+			],
+			[
+				"app",
+				"app.coffee"
+			],
+			[
+				".coffee",
+				"coffeehack/assets/js/entity/tile.coffee"
+			],
+			[
+				"game.co",
+				"coffeehack/assets/js/game.coffee"
+			],
+			[
+				"coffee",
+				"node_modules/grunt/node_modules/nodeunit/test/fixtures/coffee/mock_coffee_module.coffee"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"enchant",
+				"vendor/enchantjs/enchant.js"
+			],
+			[
+				"greet",
+				"samples/greeter/greeter.ts"
+			],
+			[
+				"enchant.js",
+				"enchant.js/enchant.js"
+			],
+			[
+				"wor",
+				"wdp70-websocket/walker/world.js"
+			],
+			[
+				"hellobear",
+				"enchant.js/examples/beginner/hellobear/main.js"
+			],
+			[
+				"walinde",
+				"walker/public/index.html"
+			],
+			[
+				"walkewa",
+				"walker/public/walker.js"
+			],
+			[
+				"walkerser",
+				"walker/sever.js"
+			],
+			[
+				"cardsl",
+				"views/mobile/card_list/card_slide.js.coffee"
+			],
+			[
+				"deckdrag",
+				"views/mobile/deck/deck_drag_drop.js.coffee"
+			],
+			[
+				"dragdro",
+				"views/mobile/card_list/drag_drop.js.coffee"
+			],
+			[
+				"drag",
+				"views/mobile/deck/deck_drag_drop.js.coffee"
+			],
+			[
+				"deck",
+				"models/deck.js.coffee"
+			],
+			[
+				"card_sort",
+				"views/mobile/card_list/card_sort.js.coffee"
+			],
+			[
+				"deckunit",
+				"views/mobile/deck/deck_unit.js.coffee"
+			],
+			[
+				"setup",
+				"setup.js.coffee.erb"
+			],
+			[
+				"village",
+				"views/pc/deck/village_deck.js.coffee"
+			],
+			[
+				"utils",
+				"utils/utils.js.coffee"
+			],
+			[
+				"viewdeunit",
+				"views/mobile/deck/deck_unit.js.coffee"
+			],
+			[
+				"unit",
+				"views/shared/unit_select.js.coffee"
+			],
+			[
+				"vil",
+				"models/village.js.coffee"
+			],
+			[
+				"village_de",
+				"views/pc/deck/village_deck.js.coffee"
+			],
+			[
+				"card_deta",
+				"views/mobile/card_detail/card_detail.js.coffee"
+			],
+			[
+				"defau",
+				"octopress/source/_layouts/default.html"
+			],
+			[
+				"themeslashhead",
+				"octopress/.themes/slash/source/_includes/head.html"
+			],
+			[
+				".themeclasihead",
+				"octopress/.themes/classic/source/_includes/head.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"sourcemain",
+				"octopress/source/javascripts/main.coffee"
+			],
+			[
+				"mizcarticle",
+				".themes/mizchi/source/_includes/article.html"
+			],
+			[
+				"artic",
+				".themes/classic/source/_includes/article.html"
+			],
+			[
+				"2012",
+				"source/_posts/2012-09-23-octopress-theme.markdown"
+			],
+			[
+				"layoutpost",
+				"source/_layouts/post.html"
+			],
+			[
+				"index",
+				".themes/mizchi/source/index.html"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"scenedeck",
+				"lib/scene/deck.js.coffee"
+			],
+			[
+				"deckeve",
+				"lib/views/mobile/deck/deck_events.js.coffee"
+			],
+			[
+				"viewcard_list",
+				"lib/views/mobile/card_list/card_list.js.coffee"
+			],
+			[
+				"card_list",
+				"lib/models/cards/card_list.js.coffee"
+			],
+			[
+				"carddetail",
+				"lib/views/mobile/card_detail/card_detail.js.coffee"
+			],
+			[
+				"cardli",
+				"lib/views/mobile/card_list/card_list.js.coffee"
+			],
+			[
+				"action",
+				"lib/views/pc/notification/action.js.coffee"
+			],
+			[
+				"area",
+				"lib/views/pc/notification/area.js.coffee"
+			],
+			[
+				"notificabatt",
+				"lib/views/pc/notification/battle.js.coffee"
+			],
+			[
+				"purchasecos",
+				"lib/views/mobile/deck/purchase_cost.js.coffee"
+			],
+			[
+				"addco",
+				"lib/views/mobile/deck/add_cost.js.coffee"
+			],
+			[
+				"name",
+				"lib/namespace.js.coffee"
+			],
+			[
+				"btn",
+				"lib/views/mobile/btn.js.coffee"
+			],
+			[
+				"deckevents",
+				"lib/views/mobile/deck/deck_events.js.coffee"
+			],
+			[
+				"swi",
+				"lib/switcher.js.coffee"
+			],
+			[
+				"menu",
+				"lib/views/pc/notification/menu.js.coffee"
+			],
+			[
+				"message",
+				"lib/message.js.coffee.erb"
+			],
+			[
+				"actio",
+				"lib/views/mobile/notification/action.js.coffee"
+			],
+			[
+				"panels",
+				"lib/views/mobile/city/panels.js.coffee"
+			],
+			[
+				"facilit",
+				"lib/views/mobile/city/construction/facility_menu.js.coffee"
+			],
+			[
+				"facitl",
+				"pc/drafts/city/facility_menu.html.erb"
+			],
+			[
+				"con",
+				"lib/models/city/construction.js.coffee"
+			],
+			[
+				"notifiaction",
+				"lib/views/mobile/notification/action.js.coffee"
+			],
+			[
+				"battle",
+				"lib/views/pc/notification/battle.js.coffee"
+			],
+			[
+				"_action",
+				"pc/shared/notification/_action.html.erb"
+			],
+			[
+				"city",
+				"scene/city.js.coffee"
+			],
+			[
+				"pcnotibatt",
+				"views/pc/notification/battle.js.coffee"
+			],
+			[
+				"notifi",
+				"views/mobile/notification/battle.js.coffee"
+			],
+			[
+				"notibatt",
+				"views/mobile/notification/battle.js.coffee"
+			],
+			[
+				"mmd.mo",
+				"libs/MMD/MMD.Motion.js"
+			],
+			[
+				"motion",
+				"libs/MMD/MMD.Motion.coffee"
+			],
+			[
+				"mmd.mot",
+				"libs/MMD/MMD.Motion.coffee"
+			],
+			[
+				"mmd.gl",
+				"libs/mmd.gl.enchant.js"
+			],
+			[
+				"mmd",
+				"libs/MMD/MMD.coffee"
+			],
+			[
+				"footer",
+				"node/lib/views/pc/menu/footer.js.coffee"
+			],
+			[
+				"app.j",
+				"node/lib/app.js.coffee"
+			],
+			[
+				"notimenu",
+				"node/lib/views/mobile/notification/menu.js.coffee"
+			],
+			[
+				"base",
+				"node/lib/views/shared/base.js.coffee"
+			],
+			[
+				"resouce",
+				"node/lib/models/resource.js.coffee"
+			],
+			[
+				"header",
+				"node/lib/views/pc/menu/header.js.coffee"
+			],
+			[
+				"base_spec",
+				"node/test/views/shared/base_spec.js.coffee"
+			],
+			[
+				"addcost",
+				"node/lib/views/mobile/deck/add_cost.js.coffee"
+			],
+			[
+				"scene",
+				"node/lib/scene/scene.js.coffee"
+			],
+			[
+				"timer",
+				"node/lib/models/timer.js.coffee"
+			],
+			[
+				"base_spe",
+				"node/test/views/shared/base_spec.js.coffee"
+			],
+			[
+				"swit",
+				"node/lib/switcher.js.coffee"
+			],
+			[
+				"resoucespec",
+				"node/test/views/mobile/city/resource_views_spec.js.coffee"
+			],
+			[
+				"resou",
+				"node/lib/views/mobile/city/resource_views.js.coffee"
+			],
+			[
+				"resource",
+				"app/assets/javascripts/lib/models/resource.js.coffee"
+			],
+			[
+				"app.",
+				"node/lib/app.js.coffee"
+			],
+			[
+				"resour",
+				"node/lib/views/mobile/city/resource_views.js.coffee"
+			],
+			[
+				"switc",
+				"node/lib/switcher.js.coffee"
+			],
+			[
+				"ball",
+				"node/lib/views/mobile/menu/balloon.js.coffee"
+			],
+			[
+				"ballon",
+				"node/lib/views/mobile/menu/balloon.js.coffee"
+			],
+			[
+				"parse",
+				"node/lib/parser.js.coffee"
+			],
+			[
+				"latest_chat",
+				"node/lib/views/mobile/chat/latest_chat.js.coffee"
+			],
+			[
+				"latest",
+				"node/lib/models/chat/latest_chat.js.coffee"
+			],
+			[
+				"switch",
+				"node/lib/switcher.js.coffee"
+			],
+			[
+				"util",
+				"node/lib/utils/utils.js.coffee"
+			],
+			[
+				"card",
+				"node/lib/views/mobile/card_detail/card_detail.js.coffee"
+			],
+			[
+				"notificamnu",
+				"node/lib/views/mobile/notification/menu.js.coffee"
+			],
+			[
+				"transi",
+				"node/lib/views/mobile/menu/transition_button.js.coffee"
+			],
+			[
+				"carde",
+				"node/lib/views/mobile/card_detail/card_detail.js.coffee"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application_mobile.js"
+			],
+			[
+				"appp",
+				"app/assets/javascripts/application_pc.js"
+			],
+			[
+				"train",
+				"node/lib/views/mobile/card_detail/train_troop.js.coffee"
+			],
+			[
+				"traint",
+				"node/lib/rpc/api/traintroop_api.js.coffee"
+			],
+			[
+				"union",
+				"node/lib/models/union/union.js.coffee"
+			],
+			[
+				"card_detail",
+				"node/lib/views/mobile/card_detail/card_detail.js.coffee"
+			],
+			[
+				"applmob",
+				"app/assets/javascripts/application_mobile.js"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application_pc.js"
+			],
+			[
+				"tile",
+				"node/test/views/mobile/map/tile_spec.js.coffee"
+			],
+			[
+				"area_sp",
+				"node/test/views/mobile/map/area_spec.js.coffee"
+			],
+			[
+				"parser",
+				"node/lib/parser.js.coffee"
+			],
+			[
+				"tilespec",
+				"node/test/models/map/tile_spec.js.coffee"
+			],
+			[
+				"area_s",
+				"node/test/views/map/area_spec.js.coffee"
+			],
+			[
+				"contrac",
+				"script/contract.rb"
+			],
+			[
+				"contra",
+				"script/contract.rb"
+			],
+			[
+				"bui",
+				"build.hxml"
+			],
+			[
+				"r",
+				"haxe-x/README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/setting.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true
+}

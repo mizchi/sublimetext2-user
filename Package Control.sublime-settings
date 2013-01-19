@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1350191551,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"4GL",
 		"All Autocomplete",
 		"Backbone.js",
 		"Bison",
+		"Browser Refresh",
 		"Clipboard History",
 		"CoffeeScript",
 		"CoffeeScript Function Finder",
@@ -14,9 +15,12 @@
 		"Function Name Display",
 		"Gist",
 		"Git",
+		"GitGutter",
 		"GitHubinator",
 		"Google Tasks",
 		"HaXe",
+		"HTML Mustache",
+		"Jade",
 		"JS2Coffee",
 		"Line Completion",
 		"Local History",
@@ -29,6 +33,7 @@
 		"SCSS Snippets",
 		"Shell Turtlestein",
 		"SideBarEnhancements",
+		"Solarized Color Scheme",
 		"Solarized Color Scheme (TextMate)",
 		"Sublime Finder",
 		"Sublime Tweet",
@@ -38,6 +43,8 @@
 		"Terminal",
 		"Theme - Phoenix",
 		"Theme - Soda",
+		"Unity3D",
+		"Unity3D Build System",
 		"Unity3D Script Reference Search",
 		"View In Browser",
 		"ZenCoding"

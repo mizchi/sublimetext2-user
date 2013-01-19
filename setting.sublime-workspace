@@ -519,29 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "[\n    //インサートモードからctrl+gで抜ける\n    {\n        \"keys\": [\"ctrl+g\"],\n        \"command\": \"exit_insert_mode\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\", \"operand\": false },\n            { \"key\": \"setting.is_widget\", \"operand\": false }\n        ]\n    },\n\n\n    //コマンドパレット呼び出し\n    {\n        \"keys\": [\";\"],\n        \"command\": \"show_overlay\",\n        \"args\": {\"overlay\": \"command_palette\"},\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    //プロジェクト呼び出しショートカット\n    {\n        \"keys\": [\"B\"],\n        \"command\": \"prompt_select_project\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n\n    },\n\n    // ファイルスイッチ\n    {\n        \"keys\": [\"t\"],\n        \"command\": \"show_overlay\",\n        \"args\": {\"overlay\": \"goto\", \"show_files\": true} ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    // move tabs\n    { \"keys\":\n        [\"ctrl+h\"],\n        \"command\": \"prev_view\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"ctrl+l\"],\n        \"command\": \"next_view\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    // fold and unfold\n    {\n        \"keys\": [\"[\"],\n        \"command\": \"fold\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n    {\n        \"keys\": [\"]\"],\n        \"command\": \"unfold\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"1\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 0 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"2\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 1 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"3\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 2 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"4\"],\n        \"command\": \"focus_group\",\n        \"args\": { \"group\": 3 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    {\n        \"keys\": [\"ctrl+1\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 0 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"ctrl+2\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 1 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n    {\n        \"keys\": [\"ctrl+3\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 2 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n    {\n        \"keys\": [\"ctrl+4\"],\n        \"command\": \"move_to_group\",\n        \"args\": { \"group\": 3 } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"f1\"],\n        \"command\": \"set_layout\",\n        \"args\":\n        {\n            \"cols\": [0.0, 1.0],\n            \"rows\": [0.0, 1.0],\n            \"cells\": [[0, 0, 1, 1]]\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"f2\"],\n        \"command\": \"set_layout\",\n        \"args\":\n        {\n            \"cols\": [0.0, 0.5, 1.0],\n            \"rows\": [0.0, 1.0],\n            \"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"f3\"],\n        \"command\": \"set_layout\",\n        \"args\":\n        {\n            \"cols\": [0.0, 0.5, 1.0],\n            \"rows\": [0.0, 0.5, 1.0],\n            \"cells\":\n            [\n                [0, 0, 1, 1], [1, 0, 2, 1],\n                [0, 1, 1, 2], [1, 1, 2, 2]\n            ]\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    { \"keys\": [\"-\"],\n        \"command\": \"toggle_side_bar\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"_\"],\n        \"command\": [\"toggle_side_bar\"],\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\"e\"],\n        \"command\": \"show_overlay\",\n        \"args\":\n        {\n            \"overlay\": \"goto\",\n            \"text\": \"@\"\n        },\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"@\"],\n        \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"},\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"g\",\"c\"],\n        \"command\": \"git_quick_commit\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"g\",\"s\"],\n        \"command\": \"git_status\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    { \"keys\": [\"g\",\"l\"],\n        \"command\": \"git_log\",\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n\n    {\n        \"keys\": [\"c\"],\n        \"command\": \"toggle_comment\",\n        \"args\": { \"block\": false } ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n        \"keys\": [\",\"], \"command\": \"next_bookmark\" ,\n        \"context\":[\n            { \"key\": \"setting.command_mode\"}\n        ]\n    },\n\n    {\n  \"keys\": [\"m\"], \"command\": \"toggle_bookmark\",\n  \"context\":[\n      { \"key\": \"setting.command_mode\"}\n  ]\n\n    },\n\n    {\n        \"keys\": [\"`\"],\n        \"command\":\"focus_side_bar\" ,\n        \"context\":[ { \"key\": \"setting.command_mode\"}]\n    },\n\n    { \"keys\": [\"super+alt+[\"], \"command\": \"fold\" },\n    { \"keys\": [\"super+alt+]\"], \"command\": \"unfold\" },\n    { \"keys\": [\"alt+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"alt+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9},\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"Z\"], \"command\": \"unfold_all\",\"context\":[ { \"key\": \"setting.command_mode\"}] },\n    { \"keys\": [\"z\"], \"command\": \"fold_all\",\"context\":[ { \"key\": \"setting.command_mode\"}]},\n    { \"keys\": [\"alt+t\"], \"command\": \"fold_tag_attributes\" },\n\n    { \"keys\": [\"alt+k\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} ,\"context\":[ { \"key\": \"setting.command_mode\"}]},\n    { \"keys\": [\"alt+j\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} ,\"context\":[ { \"key\": \"setting.command_mode\"}]},\n\n    { \"keys\": [\"j\", \"j\"], \"command\": \"exit_insert_mode\",\n        \"context\":\n        [\n            { \"key\": \"setting.command_mode\", \"operand\": false },\n            { \"key\": \"setting.is_widget\", \"operand\": false }\n        ]\n    },\n    {\"keys\":[\"ctrl+c\"],\n     \"command\": \"shell_prompt\",\n     \"context\":[\n        { \"key\": \"setting.command_mode\"}\n      ]\n    }\n]\n\n    ",
-			"file": "Default (OSX).sublime-keymap",
-			"file_size": 7827,
-			"file_write_time": 1350198526000000,
-			"settings":
-			{
-				"buffer_size": 7729,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"file": "Shell Turtlestein.sublime-settings",
-			"file_size": 34,
-			"file_write_time": 1350198393000000,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix",
-				"name": "Shell Turtlestein.sublime-settings"
-			}
-		}
 	],
 	"build_system": "Packages/User/typescript.sublime-build",
 	"command_palette":
@@ -835,6 +812,8 @@
 	},
 	"file_history":
 	[
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Shell Turtlestein.sublime-settings",
+		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json",
 		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-build",
@@ -960,9 +939,7 @@
 		"/Users/mizchi/Downloads/contract.rb",
 		"/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee",
 		"/Users/mizchi/proj/tss-html/app/assets/javascripts/application.js",
-		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/transition_button.js.coffee",
-		"/Users/mizchi/proj/tss-html/app/views/pc/shared/_assets.html.erb",
-		"/Users/mizchi/proj/tss-html/node/lib/utils/utils.js.coffee"
+		"/Users/mizchi/proj/tss-html/node/lib/views/mobile/menu/transition_button.js.coffee"
 	],
 	"find":
 	{
@@ -1145,155 +1122,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 7729,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								187,
-								187
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"function_name_status_row": 7,
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-								"coffee": "coffee",
-								"node": "node"
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Shell Turtlestein.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Shell Turtlestein.sublime-settings",
-							"function_name_status_row": 0,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1339,6 +1169,10 @@
 	"output.haxe":
 	{
 		"height": 118.0
+	},
+	"output.run_mocha":
+	{
+		"height": 0.0
 	},
 	"replace":
 	{

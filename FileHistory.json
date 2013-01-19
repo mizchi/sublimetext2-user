@@ -1,167 +1,197 @@
 {
-    "cc652d368f26cbb71fbab5dbc0de4e34": {
+    "cb7040f9b8ef7c31c8b018478f43a633": {
         "opened": [
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/package.json"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/example/simple/example.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/coffee-script/package.json"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/node_modules/jsdom/node_modules/cssom/lib/CSSImportRule.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/package.json"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/node_modules/jsdom/node_modules/cssstyle/lib/properties/listStyleImage.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/package.json"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/node_modules/mocha/lib/suite.js"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/context_builder/index.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/README.md"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/Cakefile"
-            }, 
-            {
-                "index": 2, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/hartman.coffee"
-            }, 
-            {
-                "index": 1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple/src/hello.coffee"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/index.js"
-            }
-        ], 
-        "closed": []
-    }, 
-    "d629d38a9029172ba237254d3fe7d6e5": {
-        "opened": [], 
-        "closed": [
-            {
-                "index": 2, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
-            }
-        ]
-    }, 
-    "6fa1eaa2c53503990676afc6542deafa": {
-        "opened": [
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Default (OSX).sublime-keymap"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-settings"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Pristine Packages/User.sublime-package"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/D/unittest.sublime-snippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/kakko.sublime-snippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/ZenCoding/update_keymaps.bat"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/C++/Symbol List - Indent Class Methods.tmPreferences"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/CoffeeScript.sublime-settings"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/final-var.sublime-snippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/roy.tmbundle/Snippets/For all.tmSnippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/fold.py"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/package.json"
             }, 
             {
                 "index": -1, 
                 "group": -1, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/setUp().sublime-snippet"
+                "filename": "/Users/mizchi/proj/flesh/backbone.js"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/context_builder/example/test/test.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/context_builder/src/context_builder.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/flesh/node_modules/backbone/backbone.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/flesh/flesh.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/flesh/ctx.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/SublimeTweet.settings"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/example/jquery.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Git/git.py"
+                "filename": "/Users/mizchi/proj/flesh/context_builder/example/underscore.js"
+            }
+        ], 
+        "closed": []
+    }, 
+    "205f1bd1005350d8924d3c74fa260911": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/views/pc/shared/dialogs/_shop_dialog.html.erb"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings"
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/card_list/card_slide.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/cards/card_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/models/cards/card.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/rpc/api/cancelqueuebattle_api.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/Capfile"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/deck/card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/deck/card_info.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/map/tile.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/map/area.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/quest.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/loading.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/header.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/mobile/btn.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/city/facility_canvas.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/deck/header.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/map/area.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/menu/header.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/menu/menu.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/menu/footer.js.coffee"
             }
         ], 
         "closed": [
             {
-                "index": 0, 
+                "index": 1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json"
+                "filename": "/Users/mizchi/sandbox/monster/test/main.test.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/test/hoge.test.coffee"
             }
         ]
     }, 
@@ -170,239 +200,409 @@
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/package.json"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/menu.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/coffee-script/package.json"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/ui/menu.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/package.json"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/map.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/package.json"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/dev/src/Scene.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/tests/plugins/pluginLast/specificCollection.html"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/Cakefile"
-            }, 
-            {
-                "index": 2, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/hartman.coffee"
-            }, 
-            {
-                "index": 1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple/src/hello.coffee"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/base.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/dom.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/index.js"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/minimap.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Default (OSX).sublime-keymap"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/field.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-settings"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/ui/dom.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/scenes/field.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/monsters/goblin.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Pristine Packages/User.sublime-package"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/enchant.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/D/unittest.sublime-snippet"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/single_shot.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/kakko.sublime-snippet"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/skills/single_shot.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/ZenCoding/update_keymaps.bat"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/multi_shot.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/img/Data/SE/[Environment]Boiling1_Komori.ogg"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/C++/Symbol List - Indent Class Methods.tmPreferences"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/objects/damage_label.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/CoffeeScript.sublime-settings"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/dev/src/Entity.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/final-var.sublime-snippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/roy.tmbundle/Snippets/For all.tmSnippet"
-            }, 
-            {
-                "index": -1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/fold.py"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/mover.coffee"
             }, 
             {
                 "index": -1, 
                 "group": -1, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/setUp().sublime-snippet"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/monster.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/SublimeTweet.settings"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/entities/bullet.js"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Git/git.py"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/scenes/object_board.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/mouse.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/mmo/node_modules/socket.io/lib/transports/websocket/default.js"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/examples/windows8/sample-app/bin/Debug/enchant.js template.build.appxrecipe"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/prompt/node_modules/winston/test/fixtures/scripts/default-exceptions.js"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/bullet.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/mmo/dump.rdb"
-            }, 
-            {
-                "index": 3, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/node_modules/grunt-coffee/node_modules/grunt/node_modules/prompt/node_modules/winston/docs/winston/config/cli-config.html"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/uglify-js/test/unit/compress/expected/if-not.js"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/objects/bullet.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/sinon/lib/sinon/util/fake_server.js"
-            }, 
-            {
-                "index": -1, 
-                "group": -1, 
-                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/city/facility_canvas.js.coffee"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/player.coffee"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/lib/rpc/api/finishconstructionnow_api.js.coffee"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/package.json"
             }, 
             {
                 "index": -1, 
                 "group": 0, 
-                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/mocha/support/foot.js"
-            }
-        ], 
-        "closed": [
-            {
-                "index": 3, 
-                "group": 0, 
-                "filename": "/Users/mizchi/sandbox/monster/vendor/enchantjs/enchant.js"
-            }, 
-            {
-                "index": 1, 
-                "group": 0, 
-                "filename": "/Users/mizchi/sandbox/monster/index.html"
-            }, 
-            {
-                "index": 5, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
-            }, 
-            {
-                "index": 4, 
-                "group": 0, 
-                "filename": "/Users/mizchi/sandbox/monster/src/types/backbone.d.ts"
-            }, 
-            {
-                "index": 4, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/File History/Default.sublime-keymap"
-            }, 
-            {
-                "index": 8, 
-                "group": 0, 
-                "filename": "/Users/mizchi/proj/mmo/assets/js/player.coffee"
-            }, 
-            {
-                "index": 8, 
-                "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/todo.md"
             }, 
             {
                 "index": 0, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/slash.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/rot/src/map/dungeon.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/img/Data/BGM/Desert01_KuroUsagi.mid"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/monsters/slime.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/entities/monsters/slime.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/node_modules/grunt-coffee/node_modules/grunt/node_modules/connect/lib/middleware/methodOverride.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/dev/src/Surface.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/tests/universal/newt.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/node_modules/grunt-coffee/node_modules/grunt/node_modules/jshint/lib/reporters/non_error.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/docs/node.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/node_modules/grunt-coffee/node_modules/grunt/node_modules/uglify-js/test/unit/compress/expected/div-with-regexp.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/updatesubs.sh"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/entities/interfaces/leveler.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/node_modules/grunt-coffee/node_modules/grunt/node_modules/prompt/node_modules/winston/test/log-exception-test.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/LICENSE"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/entities/objects/bullet.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/tests/baseUrl.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/entities/objects/damage_label.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/tests/dataMain/dataMain.html"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 13, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/grunt.js"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/interfaces/basic_ai.coffee"
+            }, 
+            {
+                "index": 11, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/interfaces/leveler.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/uditor_sprite.coffee"
             }, 
             {
                 "index": 8, 
                 "group": 0, 
-                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-build"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/core.coffee"
             }, 
             {
-                "index": 9, 
+                "index": 23, 
                 "group": 0, 
-                "filename": "/Users/mizchi/sandbox/monster/vendor/backbone/backbone.js"
+                "filename": "/Users/mizchi/sandbox/mini-shoot/node_modules/grunt-coffee/node_modules/grunt/node_modules/nodeunit/node_modules/tap/node_modules/inherits/inherits-old.js"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/index.html"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/util/mixin.coffee"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/entities/skill_selector.js"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/testrot.js"
+            }, 
+            {
+                "index": 10, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/rot.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/scene/field.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/object.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/vendor/enchantjs/enchant.js"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/util/debug.coffee"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/util/module.coffee"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/util/mixin.coffee"
+            }, 
+            {
+                "index": 11, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/dist/all.js"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/lib/ghs.rb"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/lib/chunk.rb"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/action/base.ts"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/interface.coffee"
+            }, 
+            {
+                "index": 10, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/vendor/backbone/backbone.js"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/bst/hoge.ts"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/test/enchant_model.test.coffee"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/misc.ts"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/types/enchant.d.ts"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/ui/pane.ts"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/ui/window.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/test/ui/input_manager.test.coffee"
             }
         ]
     }, 
@@ -487,6 +687,1559 @@
             }
         ]
     }, 
+    "1680b445f7f89eebd3cea6d5d7fc7a25": {
+        "opened": [
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/node_modules/backbone/backbone.js"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/flesh.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/src/node.d.ts"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/src/flesh.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/grunt.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/notch.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/TestSuite.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/src/we/Hoge.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/notch.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/MyTest.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/TestMain.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test.hxml"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/views/mobile/registration/_registration_template.html.erb"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/logout.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/package.json"
+            }
+        ], 
+        "closed": []
+    }, 
+    "96fc0b33da46249fc4fbe5a81bb66cf1": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/sarudemo/src/server/serverError.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/sarudemo/ui/index.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/sarudemo/auth.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/sarudemo/src/auth/index.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/sarudemo/lib/app/index.js"
+            }
+        ], 
+        "closed": []
+    }, 
+    "af3c542767aab7ab975534dbd04d9d22": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/index.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/optparse.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/rewriter.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/jc.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/command.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/bin/jc"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/es.next.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/test/extends.jc"
+            }
+        ], 
+        "closed": []
+    }, 
+    "5cf670db2f2b75b9ffc03aab1f89edbd": {
+        "opened": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/rewriter.coffee"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/hoge.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/memo.md"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/lexer.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/coffee-script.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/lib/es.next.js"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/grammar.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/jison/jc-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/bin/coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/test/option_parser.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/parser.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/node_modules/coffee-script/lib/coffee-script/parser.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/lib/coffee-script/parser.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/examples/beautiful_code/regular_expression_matcher.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/Rakefile"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/LICENSE"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/extras/coffee-script.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/cake.coffee"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/Cakefile"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/helpers.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/command.coffee"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/test/helpers.coffee"
+            }
+        ]
+    }, 
+    "c8757622b0a1a9029e5b457ca46bd137": {
+        "opened": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dob/node.d.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/map/tile_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/timer.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/views/shared/base_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/buildinfo/base_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/storage_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/views/mobile/entrance/entrance_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/queue/territory.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/base.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/btn.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_list/card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/city/goddess_dialog_views.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/village.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/send_message.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/switcher.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/main_loop_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/resource_base_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/recommended_alliance_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/deck_models_spec.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/test/models/charge_item_spec.js.coffee"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/setup.js.coffee.erb"
+            }
+        ]
+    }, 
+    "d629d38a9029172ba237254d3fe7d6e5": {
+        "opened": [], 
+        "closed": [
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }
+        ]
+    }, 
+    "989f2b0cbb6dbe73bdec16ac71a755f1": {
+        "opened": [
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/src/hoge.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/grunt.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/test/buster_template"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/test/utils.test.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/coverage/coverage-reporter.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/dia/buster.js"
+            }
+        ], 
+        "closed": []
+    }, 
+    "565fb90c08455beb7d6c7a49d5db2071": {
+        "opened": [
+            {
+                "index": 9, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/todo.md"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/views/index.jade"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/model.ts"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/f.coffee"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/fib.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/model.coffee"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/wdp70-websocket/chat/server.js"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/package.json"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/app.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/README.md"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/sarudemo/.gitignore"
+            }
+        ], 
+        "closed": []
+    }, 
+    "ca8c7b69aa92ffb5cd4e638082da0dcb": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/classy.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/classy.jisonlex"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/classy_ast.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/dism.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/dism_lr0.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/jscore.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/json_ast.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/phraser.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/json.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/lambdacalc.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/caltest.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/calculator.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/ansic.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/hoge.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/calculator.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/calculator.jison"
+            }
+        ], 
+        "closed": []
+    }, 
+    "6b75f72a418d98d6b62b0f147718153e": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/menu.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/ui/menu.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/map.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/dev/src/Scene.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/tests/plugins/pluginLast/specificCollection.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/base.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/dom.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/minimap.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/ui/field.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/ui/dom.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/scenes/field.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/monsters/goblin.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/enchant.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/single_shot.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/lib/skills/single_shot.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/skills/multi_shot.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/img/Data/SE/[Environment]Boiling1_Komori.ogg"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/objects/damage_label.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/dev/src/Entity.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/mover.coffee"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 13, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/grunt.js"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/interfaces/basic_ai.coffee"
+            }, 
+            {
+                "index": 11, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/interfaces/leveler.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/uditor_sprite.coffee"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/core.coffee"
+            }
+        ]
+    }, 
+    "4f84c265b43bdb8c679ff7f650c4556f": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/src/main.ts"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/test/buster.js"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/test/main.test.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/lib/main.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/node_modules/grunt/node_modules/connect/lib/middleware/basicAuth.js"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/monster/test/hoge.test.coffee"
+            }
+        ], 
+        "closed": []
+    }, 
+    "cb889eb67320490ecbada1dcb8740887": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/app.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/rpc/api/getmapoutline_api.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/rpc/api/chargecpforgoogleplay_api.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/card_list/drag_drop_target.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/card_list/drag_drop.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/card_list/base.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/card_list/card_sorter.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/registration/sub_world_card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/setup.js.coffee.erb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/cards/card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/cards/card.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/chat/latest_chat.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_detail/element_resist.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/deck.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/map/outline.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/main_loop.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/registration/select_sub_world_cards.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/union/select_skill.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/registration/select_location.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/card_detail/card_detail.js.coffee"
+            }
+        ], 
+        "closed": []
+    }, 
+    "cc652d368f26cbb71fbab5dbc0de4e34": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/coffee-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/parser.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/Cakefile"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/src/hartman.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple/src/hello.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/example/simple"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/index.js"
+            }
+        ], 
+        "closed": [
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/node/node_modules/testenv/package.json"
+            }
+        ]
+    }, 
+    "6fa1eaa2c53503990676afc6542deafa": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/typescript.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (Linux).sublime-keymap"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Pristine Packages/User.sublime-package"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/D/unittest.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/kakko.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/ZenCoding/update_keymaps.bat"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/C++/Symbol List - Indent Class Methods.tmPreferences"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/CoffeeScript.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/final-var.sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/roy.tmbundle/Snippets/For all.tmSnippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/fold.py"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Groovy/setUp().sublime-snippet"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/SublimeTweet.settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Git/git.py"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Shell Turtlestein.sublime-settings"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/FileHistory.json"
+            }
+        ]
+    }, 
+    "cfb1636e5bcf3f777a53025657c9144f": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/node_modules/interleave/examples/testfiles/lib/subdir/aliastest.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/node_modules/jison/node_modules/JSONSelect/src/test/tests/level_2/sibling_descendantof.selector"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/node_modules/jison/node_modules/JSONSelect/src/test/tests/level_3/basic_has-root-in-expr.output"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/node_modules/source-map/lib/source-map/base64.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/basic.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/examples/blocks.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/node_modules/interleave/node_modules/hash_file/README.md"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/coffee-script/test/exception_handling.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/node_modules/jasmine-node/spec/sample_helper.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/examples/beautiful_code/regular_expression_matcher.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/bin/coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/test/control_flow.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/Cakefile"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/src/modules.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/src/nodes.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/src/prettyprint.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/src/typegrammar.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/src/grammar.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/roy/roy-head/interleaved-roy.js"
+            }
+        ], 
+        "closed": []
+    }, 
+    "940aede62511d388ab68d75e237cdd8c": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/initialize.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/components/backbone/test/model.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/object.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/main.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/view/mouse.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/view/monster.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/lib/view/bind_position.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/lib/scene/field.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/view/bind_position.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/lib/view/bullet.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/view/bullet.coffee"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/model/map.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/model/game.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/components/requirejs/dist/fonts/PT-Sans/Paratype PT Sans Free Font License.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/components/requirejs/tests/undef/undefLocal.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/node_modules/grunt/node_modules/prompt/node_modules/winston/test/fixtures/scripts/log-exceptions.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/node_modules/grunt-coffee/test/fixtures/hello_world.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/components/requirejs/tasks.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": 1, 
+                "filename": "/Users/mizchi/sandbox/game-boil/lib/model/map.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/grunt.js"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/vendor/enchantjs/enchant.js"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/util/debug.coffee"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/util/module.coffee"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/util/mixin.coffee"
+            }
+        ]
+    }, 
+    "85cb7704eb4ac3ce31967ec694cefe9c": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/cards/card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/registration/select_sub_world_cards.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/registration/check_sub_world_cards.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/registration/sub_world_card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/logout.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/hs/main.hs"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/battle.ts"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/action"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/game.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/stage/base.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/types/backbone.d.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/scene/manager.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/scene/base.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/scene/field/menu/menu.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/scene/field/field.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/scene/battle/battle.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/flesh/node_modules/backbone/backbone.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/flesh/flesh.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/entity/base.ts"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/action/base.ts"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/interface.coffee"
+            }, 
+            {
+                "index": 10, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/vendor/backbone/backbone.js"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/bst/hoge.ts"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/test/enchant_model.test.coffee"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/misc.ts"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/types/enchant.d.ts"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/ui/pane.ts"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/ui/window.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/test/ui/input_manager.test.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/test/ui/pane/pane.test.coffee"
+            }
+        ]
+    }, 
+    "d2412f19e2262fd89a239cdf87b94376": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/test/importing.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/test/classes.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/.gitignore"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/scope.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/node_modules/jison/node_modules/JSONSelect/src/test/tests/level_2/sibling_childof.output"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/nodes.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/classy_ast.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/documentation/coffee/parallel_assignment.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/hoge.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/bin/jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/lambdacalc.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/phraser.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/tikiwikiparser.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/reduce_conflict.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/README"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/json.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/json_ast.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/basic_lex.jison"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/examples/calculator.jison"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/parser.js"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/Cakefile"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/src/coffee-script.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/jison/lib/jison.js"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/coffee-script/jisontest.coffee"
+            }
+        ]
+    }, 
     "24bf8b9b97d3f7a83d22b81078d4a29c": {
         "opened": [
             {
@@ -532,5 +2285,494 @@
                 "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
             }
         ]
+    }, 
+    "7f72c67bd0c868efe427cee2e306db4c": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/todo.md"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/model.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/views/index.jade"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/f.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/fib.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/model.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/wdp70-websocket/chat/server.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/app.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/sarudemo/package.json"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/application_mobile.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/namespace.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/node/lib/views/pc/notification/menu.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/lib/tasks/compile.rake"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/lib/assets/sass/extensions.rb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/config/application.rb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/Rakefile"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/config/environment.rb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/config.ru"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/Capfile"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/Gemfile"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/all_mobile.js"
+            }
+        ]
+    }, 
+    "67952a852ee2e9b83ab446e9e6e667fb": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/hartman/bin/hartman"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/hartman/lib/hartman.js"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/hartman/src/hartman.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/hartman/.gitignore"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/hartman/README.md"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/hartman/package.json"
+            }
+        ], 
+        "closed": []
+    }, 
+    "ad96c3be3a5a89d960cae937051d1cb8": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/logout.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/views/mobile/registration/_registration_template.html.erb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/views/mobile/city/_resources.html.erb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/mobile/city/goddess_dialog_views.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/village.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/validate.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/scene/registration.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/resource.js.coffee"
+            }
+        ], 
+        "closed": []
+    }, 
+    "22e7c22c73211bb365dc3470b4717ca9": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/logout.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/registration/sub_world_card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/hs/main.hs"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/lib/ghs"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/lib/hoge.rb"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/hoge.rb"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/card_list/drag_drop_target.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/models/cards/card_list.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model/action/base.ts"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/registration/select_sub_world_cards.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/views/shared/registration/check_sub_world_cards.js.coffee"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/lib/ghs.rb"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/ghs/lib/chunk.rb"
+            }
+        ]
+    }, 
+    "03a811d79d8c7ea2a5e4a39dcbd5b4ef": {
+        "opened": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/notch.coffee"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/grunt.js"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/TestSuite.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/views/mobile/registration/_registration_template.html.erb"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/src/we/Hoge.hx"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/TestMain.hx"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test.hxml"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/MyTest.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/proj/tss-html/app/assets/javascripts/lib/logout.js.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/src/we/Main.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/test/ExampleTest.hx"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/build/js_test.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/haxe-node/src/Express.hx"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/flesh.coffee"
+            }
+        ]
+    }, 
+    "d5b77108718ba2838a1645119c409010": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/model/player.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/model/game.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/view/mouse.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/model/bullet.coffee"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/lib/object.js"
+            }, 
+            {
+                "index": -1, 
+                "group": -1, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/requirejs/tests/packages/optimizing/optimizing-built.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/index.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/package.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/component.json"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/model/map.coffee"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/scene/field.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/game-boil/src/object.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/initialize.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/scenes/field.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/shapes/circle.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/grunt.js"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/mover.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/mouse.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/player.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/core.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/bullet.coffee"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/entities/monster.coffee"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/src/util/mixin.coffee"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/mini-shoot/components/enchant/enchant.js"
+            }
+        ]
+    }, 
+    "d41d8cd98f00b204e9800998ecf8427e": {
+        "opened": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/Users/mizchi/sandbox/tsmmo/src/model"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "/Users/mizchi/proj/flesh/ctx.coffee"
+            }
+        ], 
+        "closed": []
     }
 }
